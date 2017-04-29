@@ -13,7 +13,7 @@ PlateAgain was completed as a final group project during the last 2 weeks of a W
 ### Made because:
 Commercial food waste is a huge problem in large cities, and is a multi-billion- dollar problem nationwide. With growing attention in the last few years, new apps and services are starting to appear to address this issue and reduce waste.
 
-Aimed at restaurants, caterers, event planners, etc. in the city of Toronto, PlateAgain allows these "providers" of surplus food to create accounts and list available food items. Shelters, meal programs, etc. can create accounts as "accepters" to view and claim food items. Via PlateAgain, these two parties can view each other's locations and get in touch via in-app messaging to arrange transfer of the food items, and perhaps to develop ongoing relationships. 
+Aimed at restaurants, caterers, event planners, etc. in the city of Toronto, PlateAgain allows these "providers" of surplus food to create accounts and list available food items. Shelters, meal programs, etc. can create accounts as "accepters" to view and claim food items. Via PlateAgain, these two parties can view each other's locations. get directions, and communicate via in-app messaging to arrange transfer of the food items, and perhaps to develop ongoing relationships. 
 
 
 ### Made with:
