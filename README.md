@@ -1,8 +1,9 @@
-# PlateAgain
-
 ![PlateAgain screenshots on multiple devices](https://i2.wp.com/svillegas.com/wp-content/uploads/plateagain-views.png?resize=1024%2C687 "PlateAgain screenshots on multiple devices")
 
+# PlateAgain
+
 Deployed at: [plateagain.herokuapp.com](https://plateagain.herokuapp.com)
+
 **NOTE: This app was built for __demonstration purposes only__. The accounts and items listed were created by the authors and do not represent the services of the listed businesses.**
 
 
@@ -21,4 +22,4 @@ Ruby on Rails, SCSS, Javascript, jQuery, animate.css, PostgreSQL, AJAX, Foundati
 
 
 ### Made by:
-This was a joint effort by Team High Level: [myself](https://github.com/svillegascreative), [@schnabo](https://github.com/schnabo), [@ProgRockPaul](https://github.com/ProgRockPaul), [@sathesbitmaker](https://github.com/sathesbitmaker), and [@akandeel](https://github.com/akandeel)
+This was a joint effort by Team High Level: myself, [@schnabo](https://github.com/schnabo), [@ProgRockPaul](https://github.com/ProgRockPaul), [@sathesbitmaker](https://github.com/sathesbitmaker), and [@akandeel](https://github.com/akandeel)
